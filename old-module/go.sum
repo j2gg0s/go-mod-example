@@ -1,4 +1,4 @@
-github.com/j2gg0s/go-mod-example/unused-old-module v1.0.1 h1:W8F9UshKRDeQybYXwoyO27xocx1IBX9Bdj5Rvi38J5o=
-github.com/j2gg0s/go-mod-example/unused-old-module v1.0.1/go.mod h1:V+77I/wL+fH7pBOkEsIO9ny4F1wAVfP9eep55whe40w=
-github.com/j2gg0s/go-mod-example/used-old-module v1.0.1 h1:88koVe9W8ZMldt6cPWupe5nDtQYiPyTLrQDd6SNofCA=
-github.com/j2gg0s/go-mod-example/used-old-module v1.0.1/go.mod h1:ez6re2Wca1jXUPDTIxjWJluFCeKsI8BgEKDoudQo/Oo=
+github.com/j2gg0s/go-mod-example/unused-old-module v1.1.0 h1:Zf05+E5/y+1Y9x9ynGHpqgQJ/9nU/mNiI6wd7GFax3A=
+github.com/j2gg0s/go-mod-example/unused-old-module v1.1.0/go.mod h1:V+77I/wL+fH7pBOkEsIO9ny4F1wAVfP9eep55whe40w=
+github.com/j2gg0s/go-mod-example/used-old-module v1.1.0 h1:YPGRvCfx2eaTSeQ4BaBI1ts1/wg1xkK4Ymo7MnNqdic=
+github.com/j2gg0s/go-mod-example/used-old-module v1.1.0/go.mod h1:ez6re2Wca1jXUPDTIxjWJluFCeKsI8BgEKDoudQo/Oo=
