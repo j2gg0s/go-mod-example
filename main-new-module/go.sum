@@ -1,0 +1,9 @@
+github.com/j2gg0s/go-mod-example/new-module v1.0.2 h1:mUiM4+CxOUz5YwRF9HperdNzRyyAKfxT3A54FYJ7YVg=
+github.com/j2gg0s/go-mod-example/new-module v1.0.2/go.mod h1:aFTAutyEGDk7I4HDtwcfjyAiAs0YlWw0AN+mMVpcxIQ=
+github.com/j2gg0s/go-mod-example/old-module v1.0.2 h1:dlaAROL8o+qnIbaEOKZGq5cZvnkwHgWwXcOa18CN7PQ=
+github.com/j2gg0s/go-mod-example/old-module v1.0.2/go.mod h1:OOqDPMVPl5btQ5Riy5qMPDPoe03S39rLNTSZjSKJMTk=
+github.com/j2gg0s/go-mod-example/unused-old-module v1.0.1/go.mod h1:V+77I/wL+fH7pBOkEsIO9ny4F1wAVfP9eep55whe40w=
+github.com/j2gg0s/go-mod-example/used-new-module v1.0.1 h1:qEMiQFMQQ8vwZ5l+LmzcAMkvvEB1/NP9/Nt348ycagU=
+github.com/j2gg0s/go-mod-example/used-new-module v1.0.1/go.mod h1:gma6g3OSjFUtWntLGMgv5ROyTql0KPd+wT0JL9YixuM=
+github.com/j2gg0s/go-mod-example/used-old-module v1.0.1 h1:88koVe9W8ZMldt6cPWupe5nDtQYiPyTLrQDd6SNofCA=
+github.com/j2gg0s/go-mod-example/used-old-module v1.0.1/go.mod h1:ez6re2Wca1jXUPDTIxjWJluFCeKsI8BgEKDoudQo/Oo=
